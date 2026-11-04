@@ -1,0 +1,16 @@
+name = Example outfit
+top = 7/0
+undershirt = 15/0
+legs = 10/0
+feet = 1/0
+accessories = 0/0
+bags = 0/0
+mask = 0/0
+gloves = 0/0
+decals = 0/0
+armor = 0/0
+hats = 0/0
+glasses = 0/0
+ears = 0/0
+watches = 0/0
+bracelets = 0/0

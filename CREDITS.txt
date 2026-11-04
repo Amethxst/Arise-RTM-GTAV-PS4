@@ -1,0 +1,36 @@
+Arise - RTM
+Outfits editor, fast run and custom K/D for GTA V 1.57 on PS4 (GoldHEN).
+
+Made by yAmethxst
+  X:        https://x.com/yAmethxst
+  Discord:  https://amethxst.dev/discord
+
+License
+  The code of this tool is under the MIT License (see LICENSE). If you reuse it, keep the copyright notice.
+  The third-party material below keeps its own terms.
+
+
+Third-party material
+--------------------
+
+ps4debug.bin
+  ps4debug-NG v1.3.3 by OpenSourcerer (OSR), the payload Arise - RTM sends to the console to read and write the game.
+  Repository (maintained by Pharaoh2k): https://github.com/Pharaoh2k/ps4debug-NG
+  Licensed GPL-3.0; its source and license are in that repository. It is not part of this tool's own code.
+  Its own credits: "Special thanks to golden, Ctn, SiSTRo, DeathRGH & Pharaoh2k".
+
+libdebug (folder libdebug)
+  The C# client library used to talk to ps4debug, by golden (jogolden): https://github.com/jogolden/ps4debug
+  The repository does not state a license for it: it keeps the terms of its author.
+
+GoldHEN
+  The PS4 homebrew enabler this tool needs on the console (its Payload Loader and FTP servers).
+  By SiSTRo: https://ko-fi.com/sistro/shop
+
+afterglow
+  The PS4 kernel exploit used to jailbreak the console (firmware 14.00), by well0nez/m0zz:
+  https://well0nez.github.io/afterglow-web/
+
+Trademarks
+  Grand Theft Auto, GTA, Rockstar Games and PlayStation are trademarks of their respective owners.
+  This tool is not affiliated with or endorsed by Rockstar Games, Take-Two Interactive or Sony.

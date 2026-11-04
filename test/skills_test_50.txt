@@ -1,0 +1,9 @@
+# Arise - RTM: test list, all skills to 50 (visible halfway in the pause menu, Stats).
+# Read your current values first (Debug > Read a stat) so you can put them back afterwards.
+int MP_SCRIPT_INCREASE_STAM 50
+int MP_SCRIPT_INCREASE_STRN 50
+int MP_SCRIPT_INCREASE_LUNG 50
+int MP_SCRIPT_INCREASE_DRIV 50
+int MP_SCRIPT_INCREASE_FLY  50
+int MP_SCRIPT_INCREASE_SHO  50
+int MP_SCRIPT_INCREASE_STL  50

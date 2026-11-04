@@ -1,0 +1,6 @@
+# Arise - RTM: test file. "Check a list" must report 4 problems (lines 3, 4, 5 and 6) and write nothing.
+int MP_SCRIPT_INCREASE_STAM 50
+int MP_SCRIPT_INCREASE_STRN
+bool MP_SOME_STAT maybe
+int MP-BAD 1
+foo MP_X 1

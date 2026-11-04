@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net481</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <LangVersion>latest</LangVersion>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <RootNamespace>Arise_RTM</RootNamespace>
+    <AssemblyName>Arise - RTM</AssemblyName>
+    <Deterministic>true</Deterministic>
+    <PathMap>$(MSBuildProjectDirectory)=Arise-RTM</PathMap>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="ps4debug.bin" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="profile.ini" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="offsets.ini" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="outfit_example.txt" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="stats_example.txt" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="README.md" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="CREDITS.txt" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="LICENSE" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,17 @@
+# Arise - RTM: example list for the Debug tab (Run a list...)
+# One write per line:  type  name-or-index  value      # starts a comment
+# MP_ at the start of a name = the character chosen in the toolbar (MP0_ or MP1_).
+#
+#   int    MP_SOME_STAT      -1       32-bit integer
+#   bool   MP_SOME_STAT      true     true / false (or 1 / 0)
+#   float  MPPLY_SOME_STAT   6.66     decimal number
+#   pbool  1234              true     packed flag by index
+#   pint   1234              5        packed integer by index
+#
+# This one is the same as the Unlock fast run button:
+int MP_CHAR_ABILITY_1_UNLCK     -1
+int MP_CHAR_ABILITY_2_UNLCK     -1
+int MP_CHAR_ABILITY_3_UNLCK     -1
+int MP_CHAR_FM_ABILITY_1_UNLCK  -1
+int MP_CHAR_FM_ABILITY_2_UNLCK  -1
+int MP_CHAR_FM_ABILITY_3_UNLCK  -1
