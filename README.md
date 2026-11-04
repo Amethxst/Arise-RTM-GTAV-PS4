@@ -31,7 +31,7 @@ Tested on firmware 14.00 with GTA V 1.57 (EU).
 2. On the console, open https://well0nez.github.io/afterglow-web/ and jailbreak it.
 3. In GoldHEN, open **Server Settings** and enable **FTP** and **Payload Loader**.
 4. Start GTA V.
-5. Open `Arise - RTM.exe`, type the IP address of your PS4, then press **1. CONNECT PS4** and **2. CONNECT GTAV**.
+5. Download `Arise-RTM-GTAV-PS4.zip` from the [Releases](../../releases) page and unzip it. Open `Arise - RTM.exe`, type the IP address of your PS4, then press **1. CONNECT PS4** and **2. CONNECT GTAV**.
 6. Go online, then use the tool. If the outfit list is empty, press **Refresh**.
 
 ### Notes
