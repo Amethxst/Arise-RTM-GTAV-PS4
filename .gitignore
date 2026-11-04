@@ -1,0 +1,11 @@
+# Build output
+bin/
+obj/
+.vs/
+*.user
+
+# Files the tool creates next to the exe while it runs (they can hold your console IP)
+connection.txt
+rtm.log
+ui.txt
+signatures.ini
