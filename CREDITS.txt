@@ -14,7 +14,7 @@ Third-party material
 --------------------
 
 ps4debug.bin
-  ps4debug-NG v1.3.3 by OpenSourcerer (OSR), the payload Arise - RTM sends to the console to read and write the game.
+  ps4debug-NG v1.3.4 by OpenSourcerer (OSR), the payload Arise - RTM sends to the console to read and write the game.
   Repository (maintained by Pharaoh2k): https://github.com/Pharaoh2k/ps4debug-NG
   Licensed GPL-3.0; its source and license are in that repository. It is not part of this tool's own code.
   Its own credits: "Special thanks to golden, Ctn, SiSTRo, DeathRGH & Pharaoh2k".

@@ -19,15 +19,15 @@ Made by **yAmethxst**: [X](https://x.com/yAmethxst) · [Discord](https://amethxs
 
 ## Requirements
 
-- PS4 on **firmware 14.00**, jailbroken with GoldHEN.
+- PS4 on **firmware 14.00 or 14.02**, jailbroken with GoldHEN.
 - GTA V **1.57**, EU (`CUSA00411`) or US (`CUSA00419`).
 - A Windows PC on the same network as the console, with .NET Framework 4.8.1.
 
-Tested on firmware 14.00 with GTA V 1.57 (EU).
+Tested on firmware 14.00 and 14.02 with GTA V 1.57 (EU).
 
 ## How to use
 
-1. Make sure the PS4 is on firmware **14.00**.
+1. Make sure the PS4 is on firmware **14.00** or **14.02**.
 2. On the console, open https://well0nez.github.io/afterglow-web/ and jailbreak it.
 3. In GoldHEN, open **Server Settings** and enable **FTP** and **Payload Loader**.
 4. Start GTA V.
@@ -66,7 +66,7 @@ pint   1234                      5        a packed integer by index
 ## Credits
 
 - **yAmethxst**: the tool. [X](https://x.com/yAmethxst) · [Discord](https://amethxst.dev/discord)
-- **ps4debug-NG** by OpenSourcerer (OSR), maintained by Pharaoh2k: https://github.com/Pharaoh2k/ps4debug-NG. `ps4debug.bin` is v1.3.3 of this payload, licensed GPL-3.0. Its own thanks go to golden, Ctn, SiSTRo, DeathRGH and Pharaoh2k.
+- **ps4debug-NG** by OpenSourcerer (OSR), maintained by Pharaoh2k: https://github.com/Pharaoh2k/ps4debug-NG. `ps4debug.bin` is v1.3.4 of this payload, licensed GPL-3.0. Its own thanks go to golden, Ctn, SiSTRo, DeathRGH and Pharaoh2k.
 - **GoldHEN** by SiSTRo: https://ko-fi.com/sistro/shop
 - **afterglow** by well0nez/m0zz: https://well0nez.github.io/afterglow-web/
 - `libdebug`: the C# client library used to talk to ps4debug, by golden (jogolden): https://github.com/jogolden/ps4debug
